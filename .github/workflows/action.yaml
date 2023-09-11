@@ -1,0 +1,35 @@
+name: Download and Replace Image
+
+on:
+  push:
+    branches:
+      - main  # You can change this to your desired branch
+
+jobs:
+  download_and_replace_image:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Download Image
+      run: |
+        # Create a directory to store the image (if it doesn't exist)
+        # mkdir -p images
+        
+        # Use wget or curl to download the image and replace the existing one
+        wget -O images/mf.ramirezl.png https://tryhackme-badges.s3.amazonaws.com/mf.ramirezl.png
+        # or
+        # curl -o images/mf.ramirezl.png https://tryhackme-badges.s3.amazonaws.com/mf.ramirezl.png
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+        git add images/mf.ramirezl.png
+        git commit -m "Update TryHackMe profile badge"
+        git push
+
+# You may want to customize the download URL and the path to the image in the above steps.
