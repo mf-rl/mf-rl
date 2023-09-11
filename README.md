@@ -7,7 +7,7 @@
 ![Badge](https://github-readme-stats.vercel.app/api?username=YawarPandar&theme=blue-green)
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mf.ramirezl.png" alt="TryHackMe">
+
 
 <!--Currently working on software outsourcing services for banking and financial companies, and also learning about networking stuff by myself.<br/>--><br/>
 **Work experience:**<br/>
