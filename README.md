@@ -6,7 +6,7 @@
 ![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=YawarPandar&theme=highcontrast)
 ![Badge](https://github-readme-stats.vercel.app/api?username=YawarPandar&theme=blue-green)
 -->
-
+![tryhackme stats](https://raw.githubusercontent.com/YawarPandar/YawarPandar/master/images/mf.ramirezl.png)
 <!--Currently working on software outsourcing services for banking and financial companies, and also learning about networking stuff by myself.<br/>--><br/>
 **Work experience:**<br/>
 
