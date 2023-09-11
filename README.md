@@ -1,7 +1,9 @@
-<!--### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">-->
+
+### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px">
 
 <!--I'm Yawar P.<br/>-->
-[![Website](https://img.shields.io/badge/Software%20%20Engineer-darkblue?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/InfoSec%20%20Enthusiastic-darkred?style=for-the-badge)](https://github.com/YawarPandar)[![Website](https://img.shields.io/badge/Casual%20%20Gamer-yellow?style=for-the-badge)](https://github.com/YawarPandar)
+
+[![Website](https://img.shields.io/badge/Software%20%20Engineer-darkgreen?style=for-the-badge)](https://github.com/mf-p4nd4r)[![Website](https://img.shields.io/badge/Backend%20%20Developer-yellow?style=for-the-badge)](https://github.com/mf-p4nd4r)[![Website](https://img.shields.io/badge/InfoSec%20%20Enthusiastic-darkred?style=for-the-badge)](https://github.com/mf-p4nd4r)
 <!--
 ![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=YawarPandar&theme=highcontrast)
 ![Badge](https://github-readme-stats.vercel.app/api?username=YawarPandar&theme=blue-green)
