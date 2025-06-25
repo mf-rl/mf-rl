@@ -4,7 +4,7 @@
 [![Backend Developer](https://img.shields.io/badge/Backend%20Developer-yellow?style=for-the-badge)](https://github.com/mf-rl)
 [![InfoSec Enthusiast](https://img.shields.io/badge/InfoSec%20Enthusiast-darkred?style=for-the-badge)](https://github.com/mf-rl)
 <br/>
-[![Profile Image](https://raw.githubusercontent.com/YawarPandar/YawarPandar/master/images/mf.ramirezl.png)](https://tryhackme.com/p/mf.ramirezl)
+[![Profile Image](https://tryhackme-badges.s3.amazonaws.com/mfrl.png)](https://tryhackme.com/p/mf.ramirezl)
 
 </div>
 
