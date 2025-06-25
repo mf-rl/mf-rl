@@ -1,78 +1,100 @@
 <div align="center">
- 
-<!--### Greetings! <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"-->
 
-<!--I'm Yawar P.<br/>-->
- 
-[![Website](https://img.shields.io/badge/Software%20%20Engineer-darkgreen?style=for-the-badge)](https://github.com/mf-p4nd4r)[![Website](https://img.shields.io/badge/Backend%20%20Developer-yellow?style=for-the-badge)](https://github.com/mf-p4nd4r)[![Website](https://img.shields.io/badge/InfoSec%20%20Enthusiastic-darkred?style=for-the-badge)](https://github.com/mf-p4nd4r)
-
-
-<!--
-![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=YawarPandar&theme=highcontrast)
-![Badge](https://github-readme-stats.vercel.app/api?username=YawarPandar&theme=blue-green)
--->
-[![Website](https://raw.githubusercontent.com/YawarPandar/YawarPandar/master/images/mf.ramirezl.png)](https://tryhackme.com/p/mf.ramirezl)
-
-<!--Currently working on software outsourcing services for banking and financial companies, and also learning about networking stuff by myself.<br/>--><br/>
-
-
-**Work experience:**<br/>
-
-[![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20.Net-white?style=flat&logo=visual-studio&logoColor=blue)](https://visualstudio.microsoft.com/vs/) 
-[![Website](https://img.shields.io/badge/.NET-white?style=flat&logo=.net&logoColor=purple)](https://dotnet.microsoft.com/) 
-[![Website](https://img.shields.io/badge/Visual%20%20Studio%20%20Code-white?style=flat&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/) 
-[![Website](https://img.shields.io/badge/Red%20%20Hat%20%20CodeReady%20%20Studio-white?style=flat&logo=red-hat&logoColor=red)](https://www.redhat.com/en/technologies/jboss-middleware/codeready-studio) 
-[![Website](https://img.shields.io/badge/Microsoft%20%20SQL%20%20Server-white?style=flat&logo=microsoft-sql-server&logoColor=black)](https://www.microsoft.com/en-us/sql-server/sql-server-2019) 
-[![Website](https://img.shields.io/badge/Oracle-white?style=flat&logo=oracle&logoColor=orange)](https://www.oracle.com/database/) 
-[![Website](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=blue)](https://www.mysql.com/) 
-[![Website](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=brightgreen)](https://www.mongodb.com/) 
-[![Website](https://img.shields.io/badge/Microsoft%20%20Azure-white?style=flat&logo=microsoft-azure&logoColor=blue)](https://azure.microsoft.com/en-us/) 
-[![Website](https://img.shields.io/badge/Amazon%20%20AWS-white?style=flat&logo=amazon-aws&logoColor=yellowgreen)](https://aws.amazon.com/) 
-[![Website](https://img.shields.io/badge/C%23-white?style=flat&logo=c-sharp&logoColor=blue)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-[![Website](https://img.shields.io/badge/Angular-white?style=flat&logo=angular&logoColor=red)](https://angular.io/) 
-[![Website](https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=red)](https://www.java.com/) 
-[![Website](https://img.shields.io/badge/PHP-white?style=flat&logo=php&logoColor=blueviolet)](https://www.php.net/) 
-[![Website](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=yellow)](https://www.javascript.com/) 
-[![Website](https://img.shields.io/badge/JQuery-white?style=flat&logo=jquery&logoColor=blue)](https://jquery.com/) 
-[![Website](https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/) 
-[![Website](https://img.shields.io/badge/Windows%2011-white?style=flat&logo=windows11&logoColor=blue)](https://www.microsoft.com/es-es/software-download/windows11)
-[![Website](https://img.shields.io/badge/Power%20%20BI-white?style=flat&logo=power-bi&logoColor=yellow)](https://powerbi.microsoft.com/) 
-[![Website](https://img.shields.io/badge/Microsoft%20%20Visio-white?style=flat&logo=microsoft-visio&logoColor=blue)](https://office.live.com/start/visio.aspx) 
-[![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20EAP-white?style=flat&logo=red-hat&logoColor=red)](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) 
-[![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20Fuse%20%20Karaf-white?style=flat&logo=red-hat&logoColor=red)](https://github.com/jboss-fuse/fuse-karaf) 
-[![Website](https://img.shields.io/badge/Red%20%20Hat%20%20JBoss%20%20BRMS-white?style=flat&logo=red-hat&logoColor=red)](https://www.cmsdistribution.com/product/red-hat-jboss-brms/) [![Website](https://img.shields.io/badge/Apache%20%20HTTP%20%20Server-white?style=flat&logo=apache&logoColor=red)](https://httpd.apache.org/) 
-[![Website](https://img.shields.io/badge/Swagger-white?style=flat&logo=swagger&logoColor=green)](https://swagger.io/)
-[![Website](https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins)](https://www.jenkins.io/)
-[![Website](https://img.shields.io/badge/New%20Relic-white?style=flat&logo=newrelic&logoColor=green)](https://newrelic.com/es)
-[![Website](https://img.shields.io/badge/C%2b%2b-white?style=flat&logo=cplusplus&logoColor=blue)](https://en.cppreference.com/w/)
-[![Website](https://img.shields.io/badge/RabbitMQ-white?style=flat&logo=rabbitmq&logoColor=orange)](https://www.rabbitmq.com/)
-[![Website](https://img.shields.io/badge/Github-white?style=flat&logo=github&logoColor=black)](https://github.com/)
-[![Website](https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=orange)](https://www.postman.com/)
-[![Website](https://img.shields.io/badge/Ubuntu-white?style=flat&logo=ubuntu&logoColor=orange)](https://ubuntu.com/)
-[![Website](https://img.shields.io/badge/Debian-white?style=flat&logo=debian&logoColor=red)](https://www.debian.org/)
-[![Website](https://img.shields.io/badge/ArgoCD-white?style=flat&logo=argo&logoColor=orange)](https://argo-cd.readthedocs.io/en/stable/)
-[![Website](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=blue)](https://kubernetes.io/)
-[![Website](https://img.shields.io/badge/Kubernetes-white?style=flat&logo=kubernetes&logoColor=blue)](https://kubernetes.io/)
-[![Website](https://img.shields.io/badge/Powershell%20Scripting-white?style=flat&logo=powershell&logoColor=blue)](https://github.com/PowerShell/PowerShell)
-[![Website](https://img.shields.io/badge/Python%20Scripting-white?style=flat&logo=python&logoColor=blue)](https://github.com/PowerShell/PowerShell)
-
- 
-**Free time interests:**<br/>  
-[![Website](https://img.shields.io/badge/Kali%20%20Linux-white?style=flat&logo=kali-linux&logoColor=black)](https://www.kali.org/) 
-[![Website](https://img.shields.io/badge/Android-white?style=flat&logo=android&logoColor=green)](https://www.android.com/) 
-[![Website](https://img.shields.io/badge/Android%20%20Studio-white?style=flat&logo=android-studio&logoColor=green)](https://developer.android.com/studio/) 
-[![Website](https://img.shields.io/badge/PS%20%20Vita-white?style=flat&logo=playstation-vita&logoColor=blue)](https://en.wikipedia.org/wiki/PlayStation_Vita) 
-[![Website](https://img.shields.io/badge/Crunchyroll-white?style=flat&logo=crunchyroll&logoColor=orange)](https://www.crunchyroll.com/)
-
-###### Connect with me: 
-[![Website](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][linkedin]
-[![Website](https://img.shields.io/badge/TryHackMe-green?style=flat&logo=tryhackme)][tryhackme]
-<br />
-<!-- variables used above -->
-[website]: https://www.facebook.com/mf.ramirezl
-[twitter]: https://twitter.com/YawarPandar
-[linkedin]: https://www.linkedin.com/in/mauricioramirezrl/
-[tryhackme]: https://tryhackme.com/p/mf.ramirezl/
-
+[![Software Engineer](https://img.shields.io/badge/Software%20Engineer-darkgreen?style=for-the-badge)](https://github.com/mf-rl)
+[![Backend Developer](https://img.shields.io/badge/Backend%20Developer-yellow?style=for-the-badge)](https://github.com/mf-rl)
+[![InfoSec Enthusiast](https://img.shields.io/badge/InfoSec%20Enthusiast-darkred?style=for-the-badge)](https://github.com/mf-rl)
+<br/>
+[![Profile Image](https://raw.githubusercontent.com/YawarPandar/YawarPandar/master/images/mf.ramirezl.png)](https://tryhackme.com/p/mf.ramirezl)
 
 </div>
+
+---
+
+## 💼 Work Experience
+
+### 💻 Technologies & Tools
+
+<div align="center">
+
+#### IDEs & Tools
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+[![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+[![Red Hat CodeReady Studio](https://img.shields.io/badge/CodeReady%20Studio-white?style=flat&logo=red-hat&logoColor=red)](https://www.redhat.com/en/technologies/jboss-middleware/codeready-studio)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+
+#### Databases
+[![SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](https://www.oracle.com/database/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+
+#### Cloud & DevOps
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us/)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](https://kubernetes.io/)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-white?style=flat&logo=argo&logoColor=orange)](https://argo-cd.readthedocs.io/en/stable/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-white?style=flat&logo=swagger&logoColor=green)](https://swagger.io/)
+[![New Relic](https://img.shields.io/badge/New%20Relic-white?style=flat&logo=newrelic&logoColor=green)](https://newrelic.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+
+#### Backend & Languages
+[![.NET](https://img.shields.io/badge/.NET-white?style=flat&logo=.net&logoColor=purple)](https://dotnet.microsoft.com/)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![PHP](https://img.shields.io/badge/PHP-white?style=flat&logo=php&logoColor=blueviolet)](https://www.php.net/)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![Powershell](https://img.shields.io/badge/Powershell%20Scripting-white?style=flat&logo=powershell&logoColor=blue)](https://github.com/PowerShell/PowerShell)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-white?style=flat&logo=rabbitmq&logoColor=orange)](https://www.rabbitmq.com/)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+
+#### Frontend & Frameworks
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](https://angular.io/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](https://jquery.com/)
+
+#### Additional Tools
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://powerbi.microsoft.com/)
+[![Visio](https://img.shields.io/badge/Microsoft%20Visio-white?style=flat&logo=microsoft-visio&logoColor=blue)](https://office.live.com/start/visio.aspx)
+[![Postman](https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=orange)](https://www.postman.com/)
+[![Github](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
+[![Apache Server](https://img.shields.io/badge/Apache%20HTTP%20Server-white?style=flat&logo=apache&logoColor=red)](https://httpd.apache.org/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+
+#### Operating Systems
+[![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](https://www.debian.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+
+</div>
+
+---
+
+## 🎯 Free Time Interests
+
+<div align="center">
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=flat&logo=android-studio&logoColor=green)](https://developer.android.com/studio/)
+[![PS Vita](https://img.shields.io/badge/PS%20Vita-white?style=flat&logo=playstation-vita&logoColor=blue)](https://en.wikipedia.org/wiki/PlayStation_Vita)
+[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-white?style=flat&logo=crunchyroll&logoColor=orange)](https://www.crunchyroll.com/)
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mauricioramirezrl/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-green?style=flat&logo=tryhackme)](https://tryhackme.com/p/mf.ramirezl)
