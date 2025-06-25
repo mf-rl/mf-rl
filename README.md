@@ -12,8 +12,6 @@
 
 ## 💼 Work Experience
 
-### 💻 Technologies & Tools
-
 <div align="center">
 
 #### IDEs & Tools
