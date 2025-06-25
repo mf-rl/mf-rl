@@ -24,7 +24,7 @@ jobs:
         # mkdir -p images
         
         # Use wget or curl to download the image and replace the existing one
-        wget -O images/d_mf.ramirezl.png https://tryhackme-badges.s3.amazonaws.com/mf.ramirezl.png
+        wget -O images/d_mf.ramirezl.png https://tryhackme-badges.s3.amazonaws.com/mfrl.png
         # or
         # curl -o images/d_mf.ramirezl.png https://tryhackme-badges.s3.amazonaws.com/mf.ramirezl.png
 
