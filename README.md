@@ -66,7 +66,7 @@ I recharge in the temples of Crunchyroll and tinker with the ancient relic known
 
 ### 🧭 Join the Order
 - [LinkedIn](https://www.linkedin.com/in/mauricioramirezrl/) – For summoning alliances.
-- [TryHackMe](https://tryhackme.com/p/mf.ramirezl) – For cyber quests and secret operations.
+- [TryHackMe](https://tryhackme.com/p/mfrl) – For cyber quests and secret operations.
 
 ---
 
