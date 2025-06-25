@@ -12,7 +12,7 @@
 
 Greetings, wanderer.
 
-They call me the **Mavren Farsight – The Rune Lancer** — a silent guardian in the digital crusades, roaming the cyber realms, and defending the kingdoms of code.  
+They call me **Mavren Farsight – The Rune Lancer** — a silent guardian in the digital crusades, roaming the cyber realms, and defending the kingdoms of code.  
 Half cyber-templar, half shadowed panda, fully committed to the ancient order of clean commits and secure endpoints.
 
 I wield sacred relics:
