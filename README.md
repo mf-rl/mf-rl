@@ -8,18 +8,10 @@
 
 </div>
 
-# 🐼⚔️ Mavren Farsight – Cyber Panda & Templar of Clean Code
+Greetings, wanderer. 🐼⚔️
 
-Greetings, wanderer.
-
-I’m **Mavren Farsight** – a quiet guardian of code, walking the fine path between software engineering and cybersecurity.  
+They call me **Mavren Farsight of the Runed Liturgy**. A quiet guardian of code, following the sacred liturgy of clean code and security rituals, inscribed in ancient digital runes.  
 Half cyber-templar, half shadowed panda — I aim to build, protect, and simplify.
-
-### ⚒️ Tools of the Trade
-- C#, .NET, Java  
-- SQL, MongoDB, RabbitMQ  
-- Docker, GitHub Actions, Kubernetes, ArgoCD  
-- Angular, TypeScript
 
 > 🐾 *I craft backend systems, automate deployments, and enjoy learning about InfoSec in my spare time.*
 
@@ -35,7 +27,7 @@ Half cyber-templar, half shadowed panda — I aim to build, protect, and simplif
 ---
 
 ### 🎮 Side Quests
-> *Free time interests/hobbies.*
+> *Spare time interests.*
 
 | 🐉 Shadow OS Tinkerer | 🤖 Droid Forge Artisan | 🎮 Handheld Relic Hunter | 🍥 Anime Lore Seeker |
 |---------|---------|---------|---------|
