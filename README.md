@@ -28,9 +28,9 @@ Outside of work, I enjoy experimenting with new tools, exploring Android develop
 ### 🎮 Side Projects & Interests
 > *Spare time interests.*
 
-| 🐉 Shadow OS Tinkerer | 🤖 Droid Forge Artisan | 🎮 Handheld Relic Hunter | 🍥 Anime Lore Seeker |
-|---------|---------|---------|---------|
-| [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/) [![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=flat&logo=android-studio&logoColor=green)](https://developer.android.com/studio/) | [![PS Vita](https://img.shields.io/badge/PS%20Vita-white?style=flat&logo=playstation-vita&logoColor=blue)](https://en.wikipedia.org/wiki/PlayStation_Vita) | [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-white?style=flat&logo=crunchyroll&logoColor=orange)](https://www.crunchyroll.com/) | 
+| 🐉 Security & Learning Focus | 🤖 Android development | 🎮 Leisure stuff |
+|---------|---------|---------|
+| [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/) [![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=flat&logo=android-studio&logoColor=green)](https://developer.android.com/studio/) | [![PS Vita](https://img.shields.io/badge/PS%20Vita-white?style=flat&logo=playstation-vita&logoColor=blue)](https://en.wikipedia.org/wiki/PlayStation_Vita) [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-white?style=flat&logo=crunchyroll&logoColor=orange)](https://www.crunchyroll.com/) | 
 
 ---
 
