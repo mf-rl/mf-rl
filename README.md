@@ -1,4 +1,4 @@
-![Banner](images/banner.fw.png)
+<!--![Banner](images/banner.fw.png)-->
 <div align="center">
 
 [![Software Engineer](https://img.shields.io/badge/Software%20Engineer-darkgreen?style=for-the-badge)](https://github.com/mf-rl)
@@ -6,7 +6,7 @@
 [![InfoSec Explorer](https://img.shields.io/badge/InfoSec%20Explorer-darkred?style=for-the-badge)](https://github.com/mf-rl)
 [![AI-Augmented Dev](https://img.shields.io/badge/AI--Augmented%20Dev-blueviolet?style=for-the-badge)](https://github.com/mf-rl)
 
-[![Profile Image](https://tryhackme-badges.s3.amazonaws.com/mfrl.png)](https://tryhackme.com/p/mfrl)
+<!--[![Profile Image](https://tryhackme-badges.s3.amazonaws.com/mfrl.png)](https://tryhackme.com/p/mfrl)-->
 
 </div>
 
